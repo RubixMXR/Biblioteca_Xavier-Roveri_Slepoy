@@ -1,1 +1,4 @@
-# Biblioteca_Xavier-Roveri_Slepoy
+# Integrantes:
+# Matias Xavier Roveri
+# Manuel Slepoy
+# .NET 10
